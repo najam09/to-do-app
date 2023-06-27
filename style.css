@@ -38,7 +38,7 @@
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
-
+    position: relative;
 }
 input{
     flex: 1;
@@ -57,6 +57,8 @@ button{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+    position: absolute;
+    right: 0;
 }
 ul li{
     list-style: none;
